@@ -1,4 +1,4 @@
-docs
+NTUOSC Documents
 ====
 
-What NTUOSC does
+Pages and articles dedicated to describe what NTUOSC does.
